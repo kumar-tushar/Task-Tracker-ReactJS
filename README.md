@@ -1,2 +1,2 @@
-### Task Tracker Web App Developed with ReactJS
+### Task Tracker Web App Developed using ReactJS
 
